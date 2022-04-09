@@ -1,0 +1,58 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c6288_trojan2_location1_node2020.v 
+
+
+Pattern : 11101010111111111011110101011111 
+Fitness  605471.7499911676
+Trigger coverage for benchmark circuit: 0.4473554127533366 
+Trigger coverage for given circuit: 0.45724172021749876
+Number of output changed by trojan circuit represented as Trojan coverage: 0.15625
+
+Pattern : 10111110101100011011111110101111 
+Fitness  598780.2499927734
+Trigger coverage for benchmark circuit: 0.4611962432031636 
+Trigger coverage for given circuit: 0.4597132970835393
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0625
+
+Pattern : 11001110111111111011111100011111 
+Fitness  650619.9999911676
+Trigger coverage for benchmark circuit: 0.4750370736529906 
+Trigger coverage for given circuit: 0.48690064260998517
+Number of output changed by trojan circuit represented as Trojan coverage: 0.09375
+
+Pattern : 11110111001100110001111111111111 
+Fitness  584941.25
+Trigger coverage for benchmark circuit: 0.45130993573900147 
+Trigger coverage for given circuit: 0.4597132970835393
+Number of output changed by trojan circuit represented as Trojan coverage: 0.09375
+
+Pattern : 10110110101100011011110100011011 
+Fitness  502243.9999935764
+Trigger coverage for benchmark circuit: 0.39742956005931784 
+Trigger coverage for given circuit: 0.379634206623826
+Number of output changed by trojan circuit represented as Trojan coverage: 0.09375
+
+Pattern : 11111111101101011011111101001111 
+Fitness  628847.7499911676
+Trigger coverage for benchmark circuit: 0.5096391497775581 
+Trigger coverage for given circuit: 0.495304003954523
+Number of output changed by trojan circuit represented as Trojan coverage: 0.1875
+
+Pattern : 11111111101111110011111111101011 
+Fitness  665884.0000000001
+Trigger coverage for benchmark circuit: 0.5160652496292635 
+Trigger coverage for given circuit: 0.5264458724666337
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0625
+
+Pattern : 11111111001101010011111111111111 
+Fitness  658154.0
+Trigger coverage for benchmark circuit: 0.5101334651507662 
+Trigger coverage for given circuit: 0.5130993573900148
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0625
+
+Pattern : 11111111111101011011111101101111 
+Fitness  629836.9999903645
+Trigger coverage for benchmark circuit: 0.5081562036579338 
+Trigger coverage for given circuit: 0.5145823035096392
+Number of output changed by trojan circuit represented as Trojan coverage: 0.1875
+

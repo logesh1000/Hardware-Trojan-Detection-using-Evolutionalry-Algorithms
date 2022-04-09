@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c1908_trojan2_location2_node2776.v 
+
+
+Pattern : 110110011010110110000010111101110 
+Fitness  5303.987068818849
+Trigger coverage for benchmark circuit: 0.4767025089605735 
+Trigger coverage for given circuit: 0.4874551971326165
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 011010110110011110101010110100110 
+Fitness  4710.491332355265
+Trigger coverage for benchmark circuit: 0.4121863799283154 
+Trigger coverage for given circuit: 0.4229390681003584
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 011111010100101010000110111101110 
+Fitness  4361.492188567397
+Trigger coverage for benchmark circuit: 0.3763440860215054 
+Trigger coverage for given circuit: 0.3870967741935484
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111110010000110010001010111101110 
+Fitness  4267.990400795029
+Trigger coverage for benchmark circuit: 0.37992831541218636 
+Trigger coverage for given circuit: 0.3655913978494624
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111110010000111010001110111101110 
+Fitness  4389.991999367692
+Trigger coverage for benchmark circuit: 0.3835125448028674 
+Trigger coverage for given circuit: 0.3942652329749104
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111111100110011110001110111101110 
+Fitness  4662.991457070995
+Trigger coverage for benchmark circuit: 0.43010752688172044 
+Trigger coverage for given circuit: 0.44086021505376344
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111110111011011110101110110101110 
+Fitness  4644.232776858837
+Trigger coverage for benchmark circuit: 0.44086021505376344 
+Trigger coverage for given circuit: 0.4265232974910394
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 010110010000110110000010111101110 
+Fitness  4762.491991097721
+Trigger coverage for benchmark circuit: 0.4121863799283154 
+Trigger coverage for given circuit: 0.4229390681003584
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111111111110011010001010111111110 
+Fitness  4563.483578308433
+Trigger coverage for benchmark circuit: 0.40860215053763443 
+Trigger coverage for given circuit: 0.41935483870967744
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Pattern : 111110110110011110001110111101110 
+Fitness  4667.991438629412
+Trigger coverage for benchmark circuit: 0.43010752688172044 
+Trigger coverage for given circuit: 0.44086021505376344
+Number of output changed by trojan circuit represented as Trojan coverage: 0.04
+
+Rare Nodes : ['N1171', 'N1188', 'N1478', 'N1530', 'N1596', 'N1636', 'N1671', 'N1672', 'N1678', 'N1680', 'N1685', 'N1723', 'N1740', 'N1741', 'N1742', 'N1746', 'N1747', 'N1748', 'N1751', 'N1759', 'N1762', 'N1764', 'N1772', 'N1773', 'N1774', 'N1777', 'N1788', 'N1795', 'N1796', 'N1798', 'N1802', 'N1807', 'N1808', 'N1809', 'N1810', 'N1812', 'N1815', 'N1818', 'N1821', 'N1822', 'N1823', 'N1824', 'N1826', 'N1827', 'N1830', 'N1838', 'N1841', 'N1850', 'N1855', 'N1856', 'N1857', 'N1858', 'N1864', 'N1865', 'N1866', 'N1869', 'N1872', 'N1875', 'N1878', 'N1879', 'N1882', 'N1883', 'N1884', 'N1889', 'N1895', 'N1896', 'N1898', 'N1902', 'N1910', 'N1912', 'N1913', 'N1915', 'N1919', 'N1920', 'N1921', 'N1922', 'N1923', 'N1927', 'N1930', 'N1933', 'N1936', 'N1937', 'N1938', 'N1944', 'N1947', 'N1950', 'N1953', 'N1958', 'N1961', 'N1975', 'N1976', 'N1977', 'N1978', 'N1979', 'N1980', 'N1985', 'N1987', 'N1999', 'N2000', 'N2002', 'N2004', 'N2005', 'N2006', 'N2007', 'N2012', 'N2013', 'N2014', 'N2015', 'N2016', 'N2020', 'N2021', 'N2023', 'N2026', 'N2027', 'N2030', 'N2033', 'N2036', 'N2038', 'N2039', 'N2040', 'N2041', 'N2042', 'N2047', 'N2052', 'N2055', 'N2060', 'N2061', 'N2062', 'N2067', 'N2068', 'N2071', 'N2076', 'N2077', 'N2081', 'N2086', 'N2089', 'N2104', 'N2119', 'N2129', 'N2143', 'N2148', 'N2151', 'N2202', 'N2205', 'N2214', 'N2215', 'N2216', 'N2217', 'N2226', 'N2227', 'N2228', 'N2229', 'N2236', 'N2237', 'N2244', 'N2245', 'N2250', 'N2256', 'N2257', 'N2260', 'N2266', 'N2269', 'N2272', 'N2286', 'N2297', 'N2315', 'N2326', 'N2340', 'N2353', 'N2361', 'N2375', 'N2384', 'N2537', 'N2540', 'N2543', 'N2546', 'N2549', 'N2552', 'N2555', 'N2558', 'N2561', 'N2564', 'N2567', 'N2570', 'N2573', 'N2576', 'N2594', 'N2597', 'N2600', 'N2603', 'N2606', 'N2611', 'N2614', 'N2617', 'N2620', 'N2627', 'N2628', 'N2629', 'N2630', 'N2631', 'N2632', 'N2633', 'N2634', 'N2639', 'N2642', 'N2645', 'N2648', 'N2651', 'N2655', 'N2658', 'N2661', 'N2664', 'N2670', 'N2672', 'N2674', 'N2676', 'N2683', 'N2689', 'N2691', 'N2710', 'N2720', 'N2721', 'N2722', 'N2723', 'N2725', 'N2727', 'N2729', 'N2731', 'N2733', 'N2734', 'N2736', 'N2738', 'N2740', 'N2742', 'N2743', 'N2744', 'N2745', 'N2746', 'N2747', 'N2750', 'N2757', 'N2758', 'N2759', 'N2760', 'N2761', 'N2763', 'N2764', 'N2765', 'N2766', 'N2773', 'N2776', 'N2788', 'N2789', 'N2800', 'N2808', 'N2810', 'N2827', 'N2828', 'N2843', 'N2846', 'N2866', 'N2867', 'N2868', 'N2869', 'N2870', 'N2871', 'N2872', 'N2873', 'N2874', 'N2875', 'N2876', 'N2877', 'N2878', 'N2879', 'N2880', 'N2883', 'N2895', 'N2896', 'N2898', 'N3000', 'N3001']
+
+Trojan present in circuit
+--- 31.654929399490356 seconds ---
+
+Process finished with exit code 0

@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c432_trojan2_location2_node404.v 
+
+
+Pattern : 001101111001011110101111111111111111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001111111111010111101111111111110101 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001110111001011111101111111111111111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001110111001011111101111111111111111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001110111011011110101111111111110111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001110111011111110101111111111110111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001101111101111110100111111111011111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001110111001011111101111111111111101 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001101111011011110101111111111111111 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Pattern : 001111111011011111101111111111111101 
+Fitness  189.24999427797002
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.2222222222222222
+Number of output changed by trojan circuit represented as Trojan coverage: 0.42857142857142855
+
+Rare Nodes : ['N199', 'N203', 'N213', 'N242', 'N246', 'N250', 'N254', 'N255', 'N256', 'N257', 'N258', 'N259', 'N296', 'N309', 'N319', 'N334', 'N336', 'N338', 'N340', 'N342', 'N344', 'N345', 'N346', 'N347', 'N357', 'N360', 'N371', 'N372', 'N373', 'N374', 'N375', 'N376', 'N377', 'N378', 'N379', 'N380', 'N381', 'N386', 'N393', 'N399', 'N404', 'N407', 'N411', 'N414', 'N415', 'N416', 'N417', 'N418', 'N419', 'N420', 'N422', 'N425', 'N428', 'N429', 'N500', 'N501']
+
+Trojan present in circuit
+--- 2.8677523136138916 seconds ---
+
+Process finished with exit code 0

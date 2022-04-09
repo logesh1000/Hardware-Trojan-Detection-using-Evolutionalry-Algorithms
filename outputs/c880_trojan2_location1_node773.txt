@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c880_trojan2_location1_node773.v 
+
+
+Pattern : 110001101111111011010101110011111111110110101011001011010110 
+Fitness  793.2104087150757
+Trigger coverage for benchmark circuit: 0.35802469135802467 
+Trigger coverage for given circuit: 0.48148148148148145
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 111111111011110100001111010101101111110111111011001000010111 
+Fitness  767.1912994899544
+Trigger coverage for benchmark circuit: 0.41975308641975306 
+Trigger coverage for given circuit: 0.49382716049382713
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 110101101011110001100101010101111110110111011011101000010110 
+Fitness  925.6821648587861
+Trigger coverage for benchmark circuit: 0.5555555555555556 
+Trigger coverage for given circuit: 0.5679012345679012
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 100101101010011011010110111101000011111111111011101000110100 
+Fitness  719.4466969356962
+Trigger coverage for benchmark circuit: 0.30864197530864196 
+Trigger coverage for given circuit: 0.4444444444444444
+Number of output changed by trojan circuit represented as Trojan coverage: 0.23076923076923078
+
+Pattern : 110101111011110101101111010101111110110111011011101000010111 
+Fitness  813.4439539317618
+Trigger coverage for benchmark circuit: 0.43209876543209874 
+Trigger coverage for given circuit: 0.5061728395061729
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 111111111010110000001111010101101111110111011011001000010111 
+Fitness  920.1951198771922
+Trigger coverage for benchmark circuit: 0.5555555555555556 
+Trigger coverage for given circuit: 0.5679012345679012
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 110101101011010001100110011101011110110111010011101000010110 
+Fitness  844.1825439236317
+Trigger coverage for benchmark circuit: 0.4567901234567901 
+Trigger coverage for given circuit: 0.5308641975308642
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 100101101010010001000100010101010110110111011001101000010110 
+Fitness  676.2031839834651
+Trigger coverage for benchmark circuit: 0.345679012345679 
+Trigger coverage for given circuit: 0.41975308641975306
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 000011100011011100111010011001000110011010100000001001110111 
+Fitness  592.1884285954858
+Trigger coverage for benchmark circuit: 0.2962962962962963 
+Trigger coverage for given circuit: 0.38271604938271603
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 010111111011110111111101011101011110111111110011101000010111 
+Fitness  800.6667716276884
+Trigger coverage for benchmark circuit: 0.4444444444444444 
+Trigger coverage for given circuit: 0.5185185185185185
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Rare Nodes : ['N349', 'N350', 'N392', 'N401', 'N402', 'N406', 'N409', 'N413', 'N416', 'N460', 'N463', 'N466', 'N492', 'N495', 'N502', 'N504', 'N506', 'N508', 'N510', 'N511', 'N512', 'N513', 'N514', 'N515', 'N516', 'N517', 'N536', 'N537', 'N538', 'N539', 'N540', 'N541', 'N542', 'N543', 'N660', 'N661', 'N700', 'N704', 'N708', 'N712', 'N717', 'N721', 'N727', 'N731', 'N732', 'N733', 'N734', 'N757', 'N763', 'N773', 'N778', 'N782', 'N786', 'N788', 'N789', 'N790', 'N791', 'N792', 'N793', 'N795', 'N796', 'N802', 'N803', 'N804', 'N807', 'N812', 'N813', 'N814', 'N815', 'N819', 'N822', 'N825', 'N831', 'N833', 'N835', 'N841', 'N842', 'N843', 'N844', 'N849', 'N858', 'N900', 'N901']
+
+Trojan present in circuit
+--- 6.396108627319336 seconds ---
+
+Process finished with exit code 0

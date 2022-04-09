@@ -1,0 +1,714 @@
+theta = 0.5  # threshold to find rare nodes
+it = 10
+psize = 100
+
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/vedic/4_bit_ripple_adder_trojan1_location1_nodeC1.v 
+
+
+318.1720554327052
+Pattern : 110000110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+169.83449736144857
+Pattern : 011000001 
+Fitness  169.83449736144857
+Trigger coverage for benchmark circuit: 0.10526315789473684 
+Trigger coverage for given circuit: 0.3157894736842105
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+233.14688617693176
+Pattern : 101111000 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 001011000 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+169.83449736144857
+Pattern : 010000101 
+Fitness  169.83449736144857
+Trigger coverage for benchmark circuit: 0.10526315789473684 
+Trigger coverage for given circuit: 0.3157894736842105
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 000011110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+233.14688617693176
+Pattern : 100111100 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+223.73988822917823
+Pattern : 110010100 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 010010100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 111000001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 101101000 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 110000110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 101101000 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010110100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100001110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 101001010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100001110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 111000010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010110100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010010110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 011010010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100001110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+169.83449736144857
+Pattern : 000001101 
+Fitness  169.83449736144857
+Trigger coverage for benchmark circuit: 0.10526315789473684 
+Trigger coverage for given circuit: 0.3157894736842105
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+86.31504748450033
+Pattern : 001110000 
+Fitness  86.31504748450033
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.2631578947368421
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+165.49744829728922
+Pattern : 111001001 
+Fitness  165.49744829728922
+Trigger coverage for benchmark circuit: 0.2631578947368421 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+185.1222589912468
+Pattern : 111011010 
+Fitness  185.1222589912468
+Trigger coverage for benchmark circuit: 0.3684210526315789 
+Trigger coverage for given circuit: 0.5789473684210527
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+318.1720554327052
+Pattern : 101001010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+233.14688617693176
+Pattern : 110010110 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+318.1720554327052
+Pattern : 000011110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+125.67535217680154
+Pattern : 101101100 
+Fitness  125.67535217680154
+Trigger coverage for benchmark circuit: 0.42105263157894735 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.2
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 110000101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010000 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 000011100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010000 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 000011101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010010110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+233.14688617693176
+Pattern : 100111100 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+233.14688617693176
+Pattern : 101011010 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+233.14688617693176
+Pattern : 100011110 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 000011101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+223.73988822917823
+Pattern : 100011100 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+318.1720554327052
+Pattern : 011110000 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+223.73988822917823
+Pattern : 111010001 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+233.14688617693176
+Pattern : 100111100 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+318.1720554327052
+Pattern : 101001010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+185.1222589912468
+Pattern : 111011010 
+Fitness  185.1222589912468
+Trigger coverage for benchmark circuit: 0.3684210526315789 
+Trigger coverage for given circuit: 0.5789473684210527
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+304.13846356358573
+Pattern : 000011101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+165.49744829728922
+Pattern : 011011000 
+Fitness  165.49744829728922
+Trigger coverage for benchmark circuit: 0.2631578947368421 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+179.2414953092021
+Pattern : 011000010 
+Fitness  179.2414953092021
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.3684210526315789
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 010010101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010000 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+233.14688617693176
+Pattern : 110010110 
+Fitness  233.14688617693176
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 011010000 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+223.73988822917823
+Pattern : 101011001 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+178.81655969385147
+Pattern : 110011101 
+Fitness  178.81655969385147
+Trigger coverage for benchmark circuit: 0.3157894736842105 
+Trigger coverage for given circuit: 0.5263157894736842
+Number of output changed by trojan circuit represented as Trojan coverage: 0.4
+
+304.13846356358573
+Pattern : 100001100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+169.83449736144857
+Pattern : 011000001 
+Fitness  169.83449736144857
+Trigger coverage for benchmark circuit: 0.10526315789473684 
+Trigger coverage for given circuit: 0.3157894736842105
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+223.73988822917823
+Pattern : 111010001 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 011110000 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+223.73988822917823
+Pattern : 101011001 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+318.1720554327052
+Pattern : 010110100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 110000101 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100001110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 100101100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010110100 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+223.73988822917823
+Pattern : 110010101 
+Fitness  223.73988822917823
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.6
+
+304.13846356358573
+Pattern : 010010100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 011010001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010010110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 001011001 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 001111000 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 101001010 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+304.13846356358573
+Pattern : 100001100 
+Fitness  304.13846356358573
+Trigger coverage for benchmark circuit: 0.15789473684210525 
+Trigger coverage for given circuit: 0.42105263157894735
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+318.1720554327052
+Pattern : 010010110 
+Fitness  318.1720554327052
+Trigger coverage for benchmark circuit: 0.21052631578947367 
+Trigger coverage for given circuit: 0.47368421052631576
+Number of output changed by trojan circuit represented as Trojan coverage: 0.8
+
+Rare Nodes : ['C1', 'C2', 'C3', 'n1', 'n2', 'n3', 'n4', 'n5', 'n6', 'n7', 'n8', 'n9', 'n10', 'n11', 'n12', 'n13', 'n14', 'n15', 'n16', 'n17', 'n18', 'n19']
+
+Trojan present in circuit
+--- 2.257672071456909 seconds ---
+
+Process finished with exit code 0

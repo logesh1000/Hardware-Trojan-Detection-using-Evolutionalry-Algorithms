@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c17.v 
+
+
+Pattern : 10010 
+Fitness  0
+Trigger coverage for benchmark circuit: 0.0 
+Trigger coverage for given circuit: 0.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 01010 
+Fitness  3.9444444444444446
+Trigger coverage for benchmark circuit: 0.25 
+Trigger coverage for given circuit: 0.25
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 00111 
+Fitness  4.4
+Trigger coverage for benchmark circuit: 0.25 
+Trigger coverage for given circuit: 0.25
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 10110 
+Fitness  7.800000000000001
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 11011 
+Fitness  7.888888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 11100 
+Fitness  7.344444444444445
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 00101 
+Fitness  3.9444444444444446
+Trigger coverage for benchmark circuit: 0.25 
+Trigger coverage for given circuit: 0.25
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 11110 
+Fitness  7.800000000000001
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 11111 
+Fitness  7.800000000000001
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Pattern : 01001 
+Fitness  7.888888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.5
+Number of output changed by trojan circuit represented as Trojan coverage: 0.0
+
+Rare Nodes : ['N10', 'N11', 'N16', 'N19']
+
+Trojan is not present in circuit
+--- 0.13997817039489746 seconds ---
+
+Process finished with exit code 0

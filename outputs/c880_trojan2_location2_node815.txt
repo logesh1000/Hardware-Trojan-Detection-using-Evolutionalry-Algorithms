@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c880_trojan2_location2_node815.v 
+
+
+Pattern : 011110111110110100111101001111010001111011110111011001100110 
+Fitness  684.69133831337
+Trigger coverage for benchmark circuit: 0.4074074074074074 
+Trigger coverage for given circuit: 0.4567901234567901
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 001110111000111100111101111011011101111010010111011011111110 
+Fitness  732.4441772762063
+Trigger coverage for benchmark circuit: 0.49382716049382713 
+Trigger coverage for given circuit: 0.4567901234567901
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 101110111111111111111111111011111101111010000110111011111110 
+Fitness  727.4095053462041
+Trigger coverage for benchmark circuit: 0.4567901234567901 
+Trigger coverage for given circuit: 0.5061728395061729
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 001110111001111110111101111011111101111010010111011011111110 
+Fitness  768.4256355483996
+Trigger coverage for benchmark circuit: 0.5185185185185185 
+Trigger coverage for given circuit: 0.48148148148148145
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 001110111111111101010111101111110001101011100011111001101110 
+Fitness  668.91946446844
+Trigger coverage for benchmark circuit: 0.4074074074074074 
+Trigger coverage for given circuit: 0.4567901234567901
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 001110111111111111110111101011110001101011100011111011111110 
+Fitness  729.1514119774238
+Trigger coverage for benchmark circuit: 0.4444444444444444 
+Trigger coverage for given circuit: 0.49382716049382713
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 001110111001111100111101111011010101111010010111011011101110 
+Fitness  743.927346288808
+Trigger coverage for benchmark circuit: 0.5061728395061729 
+Trigger coverage for given circuit: 0.4691358024691358
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 011110111110110101111111101111110001111011100111011001100110 
+Fitness  704.1727965855839
+Trigger coverage for benchmark circuit: 0.41975308641975306 
+Trigger coverage for given circuit: 0.4691358024691358
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 101110111101111111111111111011101101111010010110111011111110 
+Fitness  714.9280470740207
+Trigger coverage for benchmark circuit: 0.49382716049382713 
+Trigger coverage for given circuit: 0.4567901234567901
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Pattern : 011110110110110100111111001111110001111011100111011001100110 
+Fitness  691.1576763385942
+Trigger coverage for benchmark circuit: 0.41975308641975306 
+Trigger coverage for given circuit: 0.4691358024691358
+Number of output changed by trojan circuit represented as Trojan coverage: 0.07692307692307693
+
+Rare Nodes : ['N349', 'N350', 'N392', 'N401', 'N402', 'N406', 'N409', 'N413', 'N416', 'N460', 'N463', 'N466', 'N492', 'N495', 'N502', 'N504', 'N506', 'N508', 'N510', 'N511', 'N512', 'N513', 'N514', 'N515', 'N516', 'N517', 'N536', 'N537', 'N538', 'N539', 'N540', 'N541', 'N542', 'N543', 'N660', 'N661', 'N700', 'N704', 'N708', 'N712', 'N717', 'N721', 'N727', 'N731', 'N732', 'N733', 'N734', 'N757', 'N763', 'N773', 'N778', 'N782', 'N786', 'N788', 'N789', 'N790', 'N791', 'N792', 'N793', 'N795', 'N796', 'N802', 'N803', 'N804', 'N807', 'N812', 'N813', 'N814', 'N815', 'N819', 'N822', 'N825', 'N831', 'N833', 'N835', 'N841', 'N842', 'N843', 'N844', 'N849', 'N858', 'N900', 'N901']
+
+Trojan present in circuit
+--- 6.873437404632568 seconds ---
+
+Process finished with exit code 0

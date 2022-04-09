@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c880_trojan1_location1_node773.v 
+
+
+Pattern : 101111111001111010011111100111011110011001001010111100101101 
+Fitness  770.4051423994135
+Trigger coverage for benchmark circuit: 0.4691358024691358 
+Trigger coverage for given circuit: 0.48148148148148145
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 111110100101111111111100010011111101111111010111111011111011 
+Fitness  547.4934298246195
+Trigger coverage for benchmark circuit: 0.3950617283950617 
+Trigger coverage for given circuit: 0.3950617283950617
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 101110110001111011011111100101001110011000001010101010101101 
+Fitness  451.2125902242551
+Trigger coverage for benchmark circuit: 0.20987654320987653 
+Trigger coverage for given circuit: 0.2962962962962963
+Number of output changed by trojan circuit represented as Trojan coverage: 0.15384615384615385
+
+Pattern : 101111111001101010011111100111011110011001001010111000011101 
+Fitness  761.6521164724819
+Trigger coverage for benchmark circuit: 0.4567901234567901 
+Trigger coverage for given circuit: 0.4691358024691358
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 111100110101111111111100010011111111111111010111111011111011 
+Fitness  547.4934298246195
+Trigger coverage for benchmark circuit: 0.3950617283950617 
+Trigger coverage for given circuit: 0.3950617283950617
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 111100100101111111111100010111111111111111010111111111011011 
+Fitness  483.96874256004384
+Trigger coverage for benchmark circuit: 0.345679012345679 
+Trigger coverage for given circuit: 0.345679012345679
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 101110111101111011111111100111111110011000001010111000101101 
+Fitness  671.9451233504343
+Trigger coverage for benchmark circuit: 0.41975308641975306 
+Trigger coverage for given circuit: 0.43209876543209874
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 111110100101111111111100010011111101111111010111111011111010 
+Fitness  547.4934298246195
+Trigger coverage for benchmark circuit: 0.3950617283950617 
+Trigger coverage for given circuit: 0.3950617283950617
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 111100100100111111111111010111111101101111010111111111011011 
+Fitness  346.9869082136931
+Trigger coverage for benchmark circuit: 0.25925925925925924 
+Trigger coverage for given circuit: 0.25925925925925924
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Pattern : 101111111101001011111111100111111110111001001010111100111101 
+Fitness  763.6697253670632
+Trigger coverage for benchmark circuit: 0.49382716049382713 
+Trigger coverage for given circuit: 0.5061728395061729
+Number of output changed by trojan circuit represented as Trojan coverage: 0.038461538461538464
+
+Rare Nodes : ['N349', 'N350', 'N392', 'N401', 'N402', 'N406', 'N409', 'N413', 'N416', 'N460', 'N463', 'N466', 'N492', 'N495', 'N502', 'N504', 'N506', 'N508', 'N510', 'N511', 'N512', 'N513', 'N514', 'N515', 'N516', 'N517', 'N536', 'N537', 'N538', 'N539', 'N540', 'N541', 'N542', 'N543', 'N660', 'N661', 'N700', 'N704', 'N708', 'N712', 'N717', 'N721', 'N727', 'N731', 'N732', 'N733', 'N734', 'N757', 'N763', 'N773', 'N778', 'N782', 'N786', 'N788', 'N789', 'N790', 'N791', 'N792', 'N793', 'N795', 'N796', 'N802', 'N803', 'N804', 'N807', 'N812', 'N813', 'N814', 'N815', 'N819', 'N822', 'N825', 'N831', 'N833', 'N835', 'N841', 'N842', 'N843', 'N844', 'N849', 'N858', 'N900', 'N901', 'N902']
+
+Trojan present in circuit
+--- 6.391529321670532 seconds ---
+
+Process finished with exit code 0

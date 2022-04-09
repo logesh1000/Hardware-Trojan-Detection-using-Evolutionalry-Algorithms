@@ -1,0 +1,70 @@
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/verilog/c17_trojan2_location2_node19.v 
+
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 10101 
+Fitness  14.28888888888889
+Trigger coverage for benchmark circuit: 0.5 
+Trigger coverage for given circuit: 0.75
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Rare Nodes : ['N10', 'N11', 'N16', 'N19', 'N24', 'N25']
+
+Trojan present in circuit
+--- 0.36494016647338867 seconds ---
+
+Process finished with exit code 0

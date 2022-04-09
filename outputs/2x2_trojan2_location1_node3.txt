@@ -1,0 +1,74 @@
+theta = 0.2  # threshold to find rare nodes
+it = 10
+psize = 10
+
+C:\Users\Logesh\Anaconda3\python.exe L:/final_year_project/new_fitness_DE_trail.py
+Patterns/vedic/2x2_trojan2_location1_node3.v 
+
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Pattern : 1111 
+Fitness  17.6
+Trigger coverage for benchmark circuit: 0.75 
+Trigger coverage for given circuit: 1.0
+Number of output changed by trojan circuit represented as Trojan coverage: 0.5
+
+Rare Nodes : ['n1', 'n2', 'n3', 'n5']
+
+Trojan present in circuit
+--- 0.13165688514709473 seconds ---
+
+Process finished with exit code 0
